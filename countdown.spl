@@ -1,0 +1,9 @@
+[Inputs]
+Clock
+Clear
+Enable
+=Start[7:0]=
+[Outputs]
+isFinish
+=CurrentTime[7:0]=
+[BiDir]
